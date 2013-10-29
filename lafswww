@@ -1,0 +1,2 @@
+#!/bin/sh
+@@VENV@@/bin/python @@VENV@@/bin/lafswww $@
